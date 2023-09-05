@@ -1,0 +1,30 @@
+C:\Users\hyunk\source\WCTC\weekly report\bin\Debug\net6.0\weekly report.exe
+C:\Users\hyunk\source\WCTC\weekly report\bin\Debug\net6.0\weekly report.deps.json
+C:\Users\hyunk\source\WCTC\weekly report\bin\Debug\net6.0\weekly report.runtimeconfig.json
+C:\Users\hyunk\source\WCTC\weekly report\bin\Debug\net6.0\weekly report.dll
+C:\Users\hyunk\source\WCTC\weekly report\bin\Debug\net6.0\weekly report.pdb
+C:\Users\hyunk\source\WCTC\weekly report\obj\Debug\net6.0\weekly report.csproj.AssemblyReference.cache
+C:\Users\hyunk\source\WCTC\weekly report\obj\Debug\net6.0\weekly report.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hyunk\source\WCTC\weekly report\obj\Debug\net6.0\weekly report.AssemblyInfoInputs.cache
+C:\Users\hyunk\source\WCTC\weekly report\obj\Debug\net6.0\weekly report.AssemblyInfo.cs
+C:\Users\hyunk\source\WCTC\weekly report\obj\Debug\net6.0\weekly report.csproj.CoreCompileInputs.cache
+C:\Users\hyunk\source\WCTC\weekly report\obj\Debug\net6.0\weekly report.dll
+C:\Users\hyunk\source\WCTC\weekly report\obj\Debug\net6.0\refint\weekly report.dll
+C:\Users\hyunk\source\WCTC\weekly report\obj\Debug\net6.0\weekly report.pdb
+C:\Users\hyunk\source\WCTC\weekly report\obj\Debug\net6.0\weekly report.genruntimeconfig.cache
+C:\Users\hyunk\source\WCTC\weekly report\obj\Debug\net6.0\ref\weekly report.dll
+C:\Users\hyunk\source\WCTC\weeklyreport\bin\Debug\net6.0\weekly report.exe
+C:\Users\hyunk\source\WCTC\weeklyreport\bin\Debug\net6.0\weekly report.deps.json
+C:\Users\hyunk\source\WCTC\weeklyreport\bin\Debug\net6.0\weekly report.runtimeconfig.json
+C:\Users\hyunk\source\WCTC\weeklyreport\bin\Debug\net6.0\weekly report.dll
+C:\Users\hyunk\source\WCTC\weeklyreport\bin\Debug\net6.0\weekly report.pdb
+C:\Users\hyunk\source\WCTC\weeklyreport\obj\Debug\net6.0\weekly report.csproj.AssemblyReference.cache
+C:\Users\hyunk\source\WCTC\weeklyreport\obj\Debug\net6.0\weekly report.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hyunk\source\WCTC\weeklyreport\obj\Debug\net6.0\weekly report.AssemblyInfoInputs.cache
+C:\Users\hyunk\source\WCTC\weeklyreport\obj\Debug\net6.0\weekly report.AssemblyInfo.cs
+C:\Users\hyunk\source\WCTC\weeklyreport\obj\Debug\net6.0\weekly report.csproj.CoreCompileInputs.cache
+C:\Users\hyunk\source\WCTC\weeklyreport\obj\Debug\net6.0\weekly report.dll
+C:\Users\hyunk\source\WCTC\weeklyreport\obj\Debug\net6.0\refint\weekly report.dll
+C:\Users\hyunk\source\WCTC\weeklyreport\obj\Debug\net6.0\weekly report.pdb
+C:\Users\hyunk\source\WCTC\weeklyreport\obj\Debug\net6.0\weekly report.genruntimeconfig.cache
+C:\Users\hyunk\source\WCTC\weeklyreport\obj\Debug\net6.0\ref\weekly report.dll
