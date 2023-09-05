@@ -69,7 +69,11 @@ if (resp == "1")
         Console.WriteLine($"{sleeptime} {tot.ToString()} {avg:0.#}");
         Console.WriteLine();
          
-        sw.WriteLine($"{dataDate:M/d/yyyy},{string.Join("|", hours)}");
+        sw.WriteLine($"Week of {dataDate:MM, dd, yyyy}");
+        sw.WriteLine("Su Mo Tu We Th Fr Sa Tot Avg");
+        sw.WriteLine("-- -- -- -- -- -- -- --- ---");
+        sw.WriteLine($"{sleeptime} {tot.ToString()} {avg:0.#} \n");
+
         // add 1 week to date
         dataDate = dataDate.AddDays(7);
     }
